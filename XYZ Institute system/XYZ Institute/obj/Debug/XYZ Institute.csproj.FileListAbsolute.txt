@@ -1,0 +1,21 @@
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\bin\Debug\XYZ Institute.exe.config
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\bin\Debug\XYZ Institute.exe
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\bin\Debug\XYZ Institute.pdb
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ Institute.csprojAssemblyReference.cache
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.Form1.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.Properties.Resources.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ Institute.csproj.GenerateResource.cache
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ Institute.csproj.CoreCompileInputs.cache
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ Institute.exe
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ Institute.pdb
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\bin\Debug\Guna.UI2.dll
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ Institute.csproj.CopyComplete
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.New_Admission.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.UpgradeSemester.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.Fees.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.SearchStudent.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.StudentIndividualDetail.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.Add_Lecturer_Information.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.Search_Lecturer.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.Edit_Student.resources
+C:\Users\harsha evo\source\repos\XYZ Institute\XYZ Institute\obj\Debug\XYZ_Institute.About.resources
